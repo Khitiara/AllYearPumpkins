@@ -1,0 +1,4 @@
+displayName = All Year Pumpkins
+author = Khitiara
+version = 0.1
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, ignore\*, .git\*, .idea\*, template.png, preview.png, *.pdn, *.cs
